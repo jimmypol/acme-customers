@@ -1,0 +1,12 @@
+/Users/jimmy/IdeaProjects/acme-customers/api/src/main/java/com/acme/customers/api/rest/v1/mappers/ResourceNotFoundMapper.java
+/Users/jimmy/IdeaProjects/acme-customers/api/src/main/java/com/acme/customers/api/rest/v1/services/exceptions/EmptyPayloadException.java
+/Users/jimmy/IdeaProjects/acme-customers/api/src/main/java/com/acme/customers/api/rest/v1/services/CustomerService.java
+/Users/jimmy/IdeaProjects/acme-customers/api/src/main/java/com/acme/customers/api/rest/v1/filters/CorsFilter.java
+/Users/jimmy/IdeaProjects/acme-customers/api/src/main/java/com/acme/customers/api/rest/v1/filters/AuthFilter.java
+/Users/jimmy/IdeaProjects/acme-customers/api/src/main/java/com/acme/customers/api/rest/v1/providers/JacksonProvider.java
+/Users/jimmy/IdeaProjects/acme-customers/api/src/main/java/com/acme/customers/api/rest/v1/RestApplication.java
+/Users/jimmy/IdeaProjects/acme-customers/api/src/main/java/com/acme/customers/api/rest/v1/mappers/EmptyPayloadMapper.java
+/Users/jimmy/IdeaProjects/acme-customers/api/src/main/java/com/acme/customers/api/rest/v1/resources/CustomerResource.java
+/Users/jimmy/IdeaProjects/acme-customers/api/src/main/java/com/acme/customers/api/rest/v1/services/exceptions/ResourceNotFoundException.java
+/Users/jimmy/IdeaProjects/acme-customers/api/src/main/java/com/acme/customers/api/rest/v1/services/impl/CustomerServiceImpl.java
+/Users/jimmy/IdeaProjects/acme-customers/api/src/main/java/com/acme/customers/api/rest/v1/services/exceptions/IdMismatchException.java

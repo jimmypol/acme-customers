@@ -1,0 +1,12 @@
+com/acme/customers/api/rest/v1/services/exceptions/IdMismatchException.class
+com/acme/customers/api/rest/v1/providers/JacksonProvider.class
+com/acme/customers/api/rest/v1/mappers/ResourceNotFoundMapper.class
+com/acme/customers/api/rest/v1/services/impl/CustomerServiceImpl.class
+com/acme/customers/api/rest/v1/services/CustomerService.class
+com/acme/customers/api/rest/v1/filters/AuthFilter.class
+com/acme/customers/api/rest/v1/RestApplication.class
+com/acme/customers/api/rest/v1/resources/CustomerResource.class
+com/acme/customers/api/rest/v1/filters/CorsFilter.class
+com/acme/customers/api/rest/v1/services/exceptions/EmptyPayloadException.class
+com/acme/customers/api/rest/v1/mappers/EmptyPayloadMapper.class
+com/acme/customers/api/rest/v1/services/exceptions/ResourceNotFoundException.class

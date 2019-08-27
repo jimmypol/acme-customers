@@ -1,0 +1,5 @@
+com/acme/customers/lib/v1/common/ApiError.class
+com/acme/customers/lib/v1/common/BaseType.class
+com/acme/customers/lib/v1/CustomerStatus.class
+com/acme/customers/lib/v1/Customer.class
+com/acme/customers/lib/v1/response/CustomerList.class
